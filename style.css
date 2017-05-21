@@ -1,0 +1,52 @@
+body {
+    max-width: 1440px;
+    background-color: slategray;
+    padding: 0px;
+    margin: 0px;
+}
+.container2 {
+    padding: 10px;
+    margin: 10px;
+    border-color: aqua;
+}
+.well2 {
+    background-color: aliceblue;
+    border-color: aqua;
+    padding: 10px;
+    margin: 75px;
+    border: solid;
+    border-radius: 1%;
+    text-align: center;
+}
+h1 {
+    color: darkturquoise;
+    font-size: 46px;
+    font-family: monospace;
+    text-align: center;
+    padding: 70px;
+    margin: 30px;
+}
+p {
+    color: darkturquoise;
+    font-size: 22px;
+    font-family: fantasy; /* why cant i use lobster font here? */
+    text-align: center;
+    padding: 70px;
+    margin: 30px;
+}
+.p2 {
+    color: darkturquoise;
+    font-size: 16px;
+    font-family: Lobster;  
+    padding: 0px;
+    margin: 10px;
+}
+.button-text {
+    color: darkturquoise;
+    font-size: 16px;
+    font-family: sans-serif; 
+    text-align: center;
+    padding: 20px;
+    margin: 10px; 
+}
+
